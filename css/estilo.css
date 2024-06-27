@@ -1,0 +1,39 @@
+.caixa{
+	padding:60px 0;
+}
+
+.fotos{
+    width:"300"; 
+    height:"150";
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#map {
+    height: 60%;
+    width: 100%;
+}
+
+#weather {
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background: #f0f0f0;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+}
+
+.fundo{
+    background-image: url('../ProjetoParqueEólico/StockCake-Sunset Wind Farm_1719447491.jpg');
+    background-size: cover; 
+}
+
+.bordas{
+    border: solid;
+}
